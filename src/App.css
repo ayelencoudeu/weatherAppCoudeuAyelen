@@ -1,0 +1,10 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #4B515D;
+}
+
+.border{
+  border:solid red 1px;
+}
